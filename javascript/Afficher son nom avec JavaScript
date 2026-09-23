@@ -1,0 +1,3 @@
+console.log("Nom : Madani");
+console.log("Prénom : Ali");
+console.log("Formation : Développement Web");
