@@ -1,0 +1,5 @@
+const prompt = require("prompt-sync")();
+
+let nom = prompt("Quel est votre mohamed ?");
+
+console.log("Bonjour", mohamed);
