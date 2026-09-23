@@ -1,3 +1,9 @@
-console.log("Nom : Madani");
-console.log("Prénom : Ali");
-console.log("Formation : Développement Web");
+
+let nom = "Mohamed";
+let prenom = "dkiouak";
+let ambition = "ingenieur en cybersecurite";
+let age = "20";
+console.log(nom);
+console.log(prenom);
+console.log(ambition);
+console.log(age);
