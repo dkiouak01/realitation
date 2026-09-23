@@ -1,0 +1,8 @@
+let somme = 50 + 10;
+let difference = 20 - 10;
+let produit = 10 * 50;
+let quotient = 20 / 15;
+console.log(somme);
+console.log(difference);
+console.log(produit);
+console.log(quotient);
