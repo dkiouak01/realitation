@@ -1,0 +1,4 @@
+let prix = 100;
+let quantite = 5;
+let total = prix * quantite;
+console.log("Total :", total);
