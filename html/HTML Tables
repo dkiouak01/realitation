@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <body>
+        <link rel="stylesheet" href="table.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <h1>html table</h1>
+        <table>
+            <tr>
+                <th>frist nam</th>
+                <th>list nam</th>
+                <th>from</th>
+                <th>age</th>
+            </tr>
+            <tr>
+                <td>mohamed</td>
+                <td>dkiouak</td>
+                <td>switzerlanda</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>yassine</td>
+                <td>dkiouak</td>
+                <td>italy</td>
+                <td>19</td>
+            </tr>
+            <tr>
+                <td>mehdi</td>
+                <td>el hachmi</td>
+                <td>Germany</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>youssef</td>
+                <td>dkiouak</td>
+                <td>canada</td>
+                <td>18</td>
+            </tr>
+            <tr>
+                <td>moussa</td>
+                <td>el may</td>
+                <td>mexico</td>
+                <td>22</td>
+            </tr>
+            <tr>
+                <td>alae</td>
+                <td>dkiouak</td>
+                <td>UK</td>
+                <td>19</td>
+            </tr>
+        </table>
+    </body>
+
+</head>
+
+</html>
