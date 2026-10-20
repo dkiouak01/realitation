@@ -1,0 +1,16 @@
+let note = 12;
+if (note >= 16) {
+    console.log("tree bien");
+}
+else if(note >= 10) {
+    console.log("valide");
+}
+else if(note <= 7) {
+    console.log("to low");
+}
+else if (note === 0) {
+    console.log("nonnn valide")
+}
+else {console.log("non valide");
+
+}
