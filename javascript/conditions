@@ -1,0 +1,12 @@
+let score = 14;
+let seuil = 10;
+console.log(score > seuil);
+console.log(score === seuil);
+console.log(score !== seuil);
+let valide = score >= seuil;
+console.log(valide)
+let swep = true;
+let pemm = false;
+let acces = score >= seuil && swep === true;
+console.log(acces);
+let entree = swep === true || pemm === true;
